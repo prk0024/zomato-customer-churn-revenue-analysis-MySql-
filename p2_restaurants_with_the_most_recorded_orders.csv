@@ -1,0 +1,11 @@
+restaurant_id,restaurant_name,city,order_count
+R0072,Biryani By Kilo,Bengaluru,288
+R0040,Behrouz Biryani,Gurugram,286
+R0062,Subway,Chennai,286
+R0103,Haldiram's,Chennai,284
+R0116,Haldiram's,Delhi,284
+R0111,Biryani By Kilo,Chennai,282
+R0198,McDonald's,Bengaluru,281
+R0133,Burger King,Pune,279
+R0013,Biryani By Kilo,Gurugram,277
+R0158,Haldiram's,Noida,277

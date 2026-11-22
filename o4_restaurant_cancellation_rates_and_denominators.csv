@@ -1,0 +1,201 @@
+restaurant_id,restaurant_name,city,order_count,cancelled_orders,cancellation_rate_pct
+R0194,Haldiram's,Chennai,245,67,27.35
+R0185,Barbeque Nation,Chennai,251,66,26.29
+R0120,Biryani By Kilo,Hyderabad,222,58,26.13
+R0046,KFC,Delhi,243,63,25.93
+R0064,Chaayos,Delhi,263,66,25.1
+R0155,McDonald's,Noida,267,67,25.09
+R0049,Barbeque Nation,Bengaluru,240,60,25.0
+R0022,Behrouz Biryani,Chennai,245,61,24.9
+R0021,Barbeque Nation,Mumbai,241,60,24.9
+R0099,Chaayos,Pune,267,66,24.72
+R0023,Starbucks,Mumbai,248,61,24.6
+R0122,Barbeque Nation,Bengaluru,254,62,24.41
+R0101,Chaayos,Mumbai,272,66,24.26
+R0044,Starbucks,Delhi,235,57,24.26
+R0170,Barbeque Nation,Chennai,258,62,24.03
+R0125,Biryani By Kilo,Noida,259,62,23.94
+R0169,Behrouz Biryani,Noida,260,62,23.85
+R0198,McDonald's,Bengaluru,281,67,23.84
+R0114,Chaayos,Mumbai,227,54,23.79
+R0100,Burger King,Chennai,270,64,23.7
+R0150,Biryani By Kilo,Mumbai,245,58,23.67
+R0140,Subway,Gurugram,226,53,23.45
+R0037,Barbeque Nation,Pune,257,60,23.35
+R0107,KFC,Bengaluru,249,58,23.29
+R0034,Pizza Hut,Noida,259,60,23.17
+R0079,Haldiram's,Bengaluru,259,60,23.17
+R0071,Behrouz Biryani,Bengaluru,216,50,23.15
+R0147,Biryani By Kilo,Pune,239,55,23.01
+R0073,McDonald's,Bengaluru,241,55,22.82
+R0190,Biryani By Kilo,Noida,241,55,22.82
+R0032,Barbeque Nation,Gurugram,242,55,22.73
+R0131,KFC,Delhi,242,55,22.73
+R0186,Chaayos,Gurugram,220,50,22.73
+R0016,Burger King,Chennai,248,56,22.58
+R0118,Barbeque Nation,Chennai,253,57,22.53
+R0085,Domino's Pizza,Delhi,229,51,22.27
+R0174,Barbeque Nation,Noida,220,49,22.27
+R0176,Behrouz Biryani,Delhi,261,58,22.22
+R0136,Haldiram's,Delhi,234,52,22.22
+R0180,KFC,Hyderabad,248,55,22.18
+R0039,Starbucks,Mumbai,253,56,22.13
+R0028,Haldiram's,Hyderabad,244,54,22.13
+R0091,Chaayos,Bengaluru,244,54,22.13
+R0134,Behrouz Biryani,Delhi,258,57,22.09
+R0177,Domino's Pizza,Chennai,236,52,22.03
+R0027,KFC,Pune,246,54,21.95
+R0161,Pizza Hut,Chennai,228,50,21.93
+R0189,Domino's Pizza,Delhi,242,53,21.9
+R0054,Domino's Pizza,Hyderabad,230,50,21.74
+R0130,Behrouz Biryani,Mumbai,249,54,21.69
+R0160,Starbucks,Gurugram,249,54,21.69
+R0191,Barbeque Nation,Chennai,226,49,21.68
+R0111,Biryani By Kilo,Chennai,282,61,21.63
+R0197,Subway,Hyderabad,250,54,21.6
+R0109,Pizza Hut,Chennai,269,58,21.56
+R0072,Biryani By Kilo,Bengaluru,288,62,21.53
+R0171,Pizza Hut,Delhi,223,48,21.52
+R0047,Starbucks,Pune,228,49,21.49
+R0168,Barbeque Nation,Chennai,270,58,21.48
+R0164,Pizza Hut,Mumbai,271,58,21.4
+R0055,Chaayos,Bengaluru,248,53,21.37
+R0069,Pizza Hut,Noida,230,49,21.3
+R0127,Domino's Pizza,Noida,254,54,21.26
+R0050,Subway,Mumbai,269,57,21.19
+R0128,KFC,Hyderabad,274,58,21.17
+R0129,Biryani By Kilo,Hyderabad,260,55,21.15
+R0145,Behrouz Biryani,Bengaluru,251,53,21.12
+R0053,Starbucks,Chennai,232,49,21.12
+R0135,KFC,Noida,261,55,21.07
+R0062,Subway,Chennai,286,60,20.98
+R0166,Domino's Pizza,Hyderabad,267,56,20.97
+R0196,Burger King,Pune,273,57,20.88
+R0086,Biryani By Kilo,Noida,249,52,20.88
+R0126,Haldiram's,Gurugram,254,53,20.87
+R0137,Pizza Hut,Chennai,274,57,20.8
+R0025,Haldiram's,Pune,241,50,20.75
+R0038,Haldiram's,Mumbai,251,52,20.72
+R0179,Subway,Delhi,251,52,20.72
+R0181,Subway,Hyderabad,251,52,20.72
+R0124,Barbeque Nation,Gurugram,266,55,20.68
+R0167,Starbucks,Delhi,266,55,20.68
+R0043,Haldiram's,Bengaluru,242,50,20.66
+R0004,KFC,Pune,257,53,20.62
+R0076,McDonald's,Noida,248,51,20.56
+R0060,Domino's Pizza,Hyderabad,240,49,20.42
+R0077,Biryani By Kilo,Hyderabad,255,52,20.39
+R0080,McDonald's,Delhi,246,50,20.33
+R0026,Haldiram's,Delhi,251,51,20.32
+R0098,Behrouz Biryani,Gurugram,251,51,20.32
+R0163,Burger King,Bengaluru,251,51,20.32
+R0033,McDonald's,Chennai,261,53,20.31
+R0005,Pizza Hut,Mumbai,266,54,20.3
+R0165,Chaayos,Noida,266,54,20.3
+R0065,Burger King,Gurugram,248,50,20.16
+R0105,McDonald's,Mumbai,248,50,20.16
+R0146,Starbucks,Delhi,243,49,20.16
+R0182,Chaayos,Hyderabad,234,47,20.09
+R0093,Haldiram's,Noida,259,52,20.08
+R0090,Starbucks,Hyderabad,254,51,20.08
+R0020,Burger King,Noida,250,50,20.0
+R0019,Chaayos,Bengaluru,245,49,20.0
+R0154,Behrouz Biryani,Pune,245,49,20.0
+R0015,McDonald's,Pune,240,48,20.0
+R0024,Biryani By Kilo,Noida,240,48,20.0
+R0051,Burger King,Gurugram,240,48,20.0
+R0087,Haldiram's,Bengaluru,225,45,20.0
+R0075,Barbeque Nation,Gurugram,246,49,19.92
+R0142,Chaayos,Chennai,241,48,19.92
+R0012,McDonald's,Bengaluru,236,47,19.92
+R0132,Pizza Hut,Hyderabad,236,47,19.92
+R0013,Biryani By Kilo,Gurugram,277,55,19.86
+R0045,Biryani By Kilo,Mumbai,257,51,19.84
+R0010,Burger King,Noida,252,50,19.84
+R0059,Pizza Hut,Hyderabad,247,49,19.84
+R0083,Starbucks,Chennai,273,54,19.78
+R0138,Domino's Pizza,Hyderabad,268,53,19.78
+R0199,Burger King,Mumbai,268,53,19.78
+R0143,Domino's Pizza,Pune,253,50,19.76
+R0068,Barbeque Nation,Chennai,275,54,19.64
+R0187,Pizza Hut,Chennai,260,51,19.62
+R0048,Chaayos,Pune,251,49,19.52
+R0172,Subway,Hyderabad,251,49,19.52
+R0175,Barbeque Nation,Delhi,272,53,19.49
+R0001,Chaayos,Hyderabad,247,48,19.43
+R0002,Chaayos,Gurugram,242,47,19.42
+R0149,Barbeque Nation,Gurugram,268,52,19.4
+R0106,Biryani By Kilo,Pune,263,51,19.39
+R0092,Biryani By Kilo,Gurugram,238,46,19.33
+R0110,Domino's Pizza,Chennai,228,44,19.3
+R0067,Haldiram's,Delhi,249,48,19.28
+R0112,KFC,Pune,249,48,19.28
+R0096,Burger King,Gurugram,218,42,19.27
+R0178,Behrouz Biryani,Chennai,244,47,19.26
+R0042,Chaayos,Chennai,240,46,19.17
+R0041,McDonald's,Noida,235,45,19.15
+R0009,Biryani By Kilo,Pune,272,52,19.12
+R0014,KFC,Mumbai,247,47,19.03
+R0103,Haldiram's,Chennai,284,54,19.01
+R0116,Haldiram's,Delhi,284,54,19.01
+R0141,Starbucks,Noida,242,46,19.01
+R0139,McDonald's,Bengaluru,253,48,18.97
+R0162,Domino's Pizza,Pune,248,47,18.95
+R0195,Burger King,Pune,248,47,18.95
+R0074,Starbucks,Gurugram,243,46,18.93
+R0200,Pizza Hut,Mumbai,238,45,18.91
+R0081,Starbucks,Noida,249,47,18.88
+R0151,Domino's Pizza,Delhi,233,44,18.88
+R0017,Domino's Pizza,Chennai,265,50,18.87
+R0052,Behrouz Biryani,Pune,239,45,18.83
+R0011,Barbeque Nation,Pune,266,50,18.8
+R0070,Chaayos,Noida,251,47,18.73
+R0102,Starbucks,Noida,251,47,18.73
+R0031,Burger King,Chennai,246,46,18.7
+R0036,Subway,Pune,247,46,18.62
+R0057,Behrouz Biryani,Bengaluru,242,45,18.6
+R0056,KFC,Bengaluru,237,44,18.57
+R0084,Behrouz Biryani,Hyderabad,221,41,18.55
+R0121,Burger King,Bengaluru,259,48,18.53
+R0097,Haldiram's,Delhi,243,45,18.52
+R0152,Haldiram's,Delhi,243,45,18.52
+R0089,Starbucks,Noida,271,50,18.45
+R0158,Haldiram's,Noida,277,51,18.41
+R0063,Burger King,Pune,250,46,18.4
+R0095,McDonald's,Mumbai,267,49,18.35
+R0008,Chaayos,Delhi,274,50,18.25
+R0115,Burger King,Gurugram,253,45,17.79
+R0192,Haldiram's,Noida,276,49,17.75
+R0066,Domino's Pizza,Mumbai,231,41,17.75
+R0184,KFC,Gurugram,254,45,17.72
+R0157,Biryani By Kilo,Pune,249,44,17.67
+R0078,Biryani By Kilo,Hyderabad,221,39,17.65
+R0094,Domino's Pizza,Delhi,244,43,17.62
+R0108,Behrouz Biryani,Hyderabad,240,42,17.5
+R0040,Behrouz Biryani,Gurugram,286,50,17.48
+R0144,Behrouz Biryani,Gurugram,253,44,17.39
+R0133,Burger King,Pune,279,48,17.2
+R0003,Barbeque Nation,Chennai,251,43,17.13
+R0007,Barbeque Nation,Hyderabad,225,38,16.89
+R0188,Behrouz Biryani,Gurugram,231,39,16.88
+R0006,Burger King,Noida,239,40,16.74
+R0058,KFC,Hyderabad,269,45,16.73
+R0159,KFC,Gurugram,272,45,16.54
+R0156,Burger King,Pune,254,42,16.54
+R0193,McDonald's,Delhi,269,44,16.36
+R0061,Subway,Delhi,245,40,16.33
+R0035,Pizza Hut,Hyderabad,235,38,16.17
+R0018,Burger King,Chennai,243,39,16.05
+R0113,Burger King,Mumbai,238,38,15.97
+R0104,Subway,Hyderabad,233,37,15.88
+R0029,Biryani By Kilo,Pune,237,37,15.61
+R0148,Domino's Pizza,Chennai,237,37,15.61
+R0123,Domino's Pizza,Delhi,244,38,15.57
+R0183,KFC,Chennai,244,38,15.57
+R0153,Domino's Pizza,Pune,246,38,15.45
+R0088,Barbeque Nation,Chennai,253,39,15.42
+R0030,Chaayos,Noida,230,35,15.22
+R0173,Behrouz Biryani,Hyderabad,237,36,15.19
+R0117,Behrouz Biryani,Mumbai,228,34,14.91
+R0082,Chaayos,Hyderabad,271,40,14.76
+R0119,Starbucks,Pune,233,30,12.88

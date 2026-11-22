@@ -1,0 +1,28 @@
+USE zomato_analytics;
+-- Run from the project root with local file loading enabled.
+-- Use empty tables on first import. Review warnings after each load.
+
+LOAD DATA LOCAL INFILE 'data/customers.csv'
+INTO TABLE customers
+CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' ESCAPED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES;
+SHOW WARNINGS;
+
+LOAD DATA LOCAL INFILE 'data/restaurants.csv'
+INTO TABLE restaurants
+CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' ESCAPED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES;
+SHOW WARNINGS;
+
+LOAD DATA LOCAL INFILE 'data/orders.csv'
+INTO TABLE orders
+CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' ESCAPED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES;
+SHOW WARNINGS;
+

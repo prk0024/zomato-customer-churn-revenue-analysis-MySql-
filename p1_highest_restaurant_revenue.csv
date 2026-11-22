@@ -1,0 +1,11 @@
+restaurant_id,restaurant_name,city,delivered_value
+R0159,KFC,Gurugram,166589.76
+R0072,Biryani By Kilo,Bengaluru,160277.99
+R0149,Barbeque Nation,Gurugram,159827.85
+R0193,McDonald's,Delhi,158718.84
+R0116,Haldiram's,Delhi,158325.14
+R0040,Behrouz Biryani,Gurugram,158298.46
+R0058,KFC,Hyderabad,158069.51
+R0199,Burger King,Mumbai,157824.97
+R0192,Haldiram's,Noida,156491.85
+R0062,Subway,Chennai,155758.47
